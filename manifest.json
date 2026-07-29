@@ -2,7 +2,7 @@
 {
   "name": "Alcantara Armeiro",
   "short_name": "Armeiro",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#c8a22d",
