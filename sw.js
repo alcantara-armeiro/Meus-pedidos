@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alcantara-app-v1';
+const CACHE_NAME = 'pedidos-app-v1';
 
 const urlsToCache = [
   './',
